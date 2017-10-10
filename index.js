@@ -8,3 +8,13 @@ for (var i = 0; i < musicians.length; i++) {
 
 return array;
 }
+
+
+function johnLennonFacts(facts) {
+  var array = [];
+
+  while (i < facts.lenth) {
+    array.push (`${facts}`!)
+  }
+  return array;
+}
