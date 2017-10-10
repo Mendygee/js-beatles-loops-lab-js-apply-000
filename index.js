@@ -13,7 +13,7 @@ return array;
 function johnLennonFacts(facts) {
   var array = [];
 
-  while (i = 0; i < facts.lenth; i++) {
+  while (i = 0; i < facts.lenth) {
     array.push (`${facts}"!"`)
   }
   return array;
