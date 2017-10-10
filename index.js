@@ -12,7 +12,7 @@ return array;
 
 function johnLennonFacts(facts) {
   var array = [];
-  var i = 1;
+  var i = 5;
   while (i < facts.length) {
     i++;
     array.push (`${facts[i]}!!!`)
